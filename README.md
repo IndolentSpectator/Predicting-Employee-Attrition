@@ -88,13 +88,6 @@ Employee turnover poses significant challenges for organizations, including incr
 
 ## Acknowledgements
 - **Libraries Used**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn.
-- **Dataset Source**: [Include citation].
 - **Inspiration**: Derived from HR analytics challenges.
 
----
-
-## Contact
-For queries, feel free to reach out to me at:
-- **Email**: chrisjames.nita@gmail.com
-- **GitHub**: [your_github_username]
 
